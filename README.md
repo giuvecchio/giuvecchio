@@ -5,6 +5,9 @@
 ### Hello there, I'm Giuseppe, a MEng, Deep Learning researcher and PhD student at [UNICT](https://www.unict.it/).
 ### I'm also a free time photographer, 3D graphics geek, movies lover and Jedi Padawan.
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuvecchio/)
+[![LinkedIn](https://img.shields.io/badge/-Scholar-4285F4?style=flat&logo=linkedin&logoColor=white)](https://scholar.google.com/citations?user=TF1JBZYAAAAJ&hl)
+
 <!--
 **giuvecchio/giuvecchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
