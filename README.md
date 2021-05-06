@@ -1,6 +1,4 @@
-<span align="center">
-  <a href="https://www.gvecchio.com"><img src="https://www.gvecchio.com/static/media/avatar.d95516f9.svg" width="30%" /></a>
-</span>
+[![Header](https://raw.githubusercontent.com/giuvecchio/giuvecchio/main/banner.jpg "Header")](https://www.gvecchio.com/)
 
 ### Hello there, I'm Giuseppe, a MEng, Deep Learning researcher and PhD student at [UNICT](https://www.unict.it/).
 ### I'm also a free time photographer, 3D graphics geek, movies lover and Jedi Padawan.
