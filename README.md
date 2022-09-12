@@ -47,3 +47,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/giuvecchio/giuvecchio">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=giuvecchio&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Giuseppe's GitHub Stats" />
 </a>
+
+## Medium articles
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@weirdframes/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@weirdframes/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@giuseppevecchio/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@giuseppevecchio/0" alt="Recent Article 0">
