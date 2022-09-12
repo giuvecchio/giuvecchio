@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/giuvecchio/giuvecchio/main/banner.jpg "Header")](https://www.gvecchio.com/)
 
-### Hello there, I'm Giuseppe, a Computer Engineer and Deep Learning researcher and PhD student at [UNICT](https://www.unict.it/).
+### Hello there, I'm Giuseppe, a Computer Engineer and PhD student in Deep Learning at [UNICT](https://www.unict.it/).
 ### I'm the co-founder of [Weird Frames](https://www.weirdframes.com).
 ### I'm also a free time photographer, 3D graphics geek, movies lover and Jedi Padawan.
 
