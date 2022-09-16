@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 </a>
 
 ## Medium articles
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@weirdframes/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@weirdframes/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@giuseppevecchio/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@giuseppevecchio/0" alt="Recent Article 0">
+![Giuseppe's blog](https://github-read-medium.vercel.app/latest?username=giuseppevecchio&limit=6&theme=graywhite)
+![WeirdFrames's blog](https://github-read-medium.vercel.app/latest?username=weirdframes&limit=6&theme=graywhite)
