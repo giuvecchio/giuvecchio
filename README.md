@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Unreal_Engine-313131?logo=unreal-engine&logoColor=white&style=flat)
 
 
+<!--
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/giuvecchio/giuvecchio">
@@ -51,3 +52,4 @@ Here are some ideas to get you started:
 ## Medium articles
 ![Giuseppe's blog](https://github-read-medium.vercel.app/latest?username=giuseppevecchio&limit=6&theme=graywhite)
 ![WeirdFrames's blog](https://github-read-medium.vercel.app/latest?username=weirdframes&limit=6&theme=graywhite)
+-->
