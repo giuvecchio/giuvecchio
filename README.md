@@ -1,8 +1,9 @@
 [![Header](https://raw.githubusercontent.com/giuvecchio/giuvecchio/main/banner.jpg "Header")](https://www.gvecchio.com/)
 
-### Hello there, I'm Giuseppe, a Computer Engineer and PhD student in Deep Learning at [UNICT](https://www.unict.it/).
-### I'm the co-founder of [Weird Frames](https://www.weirdframes.com).
-### I'm also a free time photographer, 3D graphics geek, movies lover and Jedi Padawan.
+### Hello there, I'm Giuseppe.
+#### I'm a researcher in AI and Computer Graphics.
+#### I received my Ph.D. in 2023 at the University of Catania, under the supervision of Prof. Concetto Spampinato.
+### I'm also the proud co-founder of [Weird Frames](https://www.weirdframes.com).
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuvecchio/)
 [![Scholar](https://img.shields.io/badge/-Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=TF1JBZYAAAAJ&hl)
