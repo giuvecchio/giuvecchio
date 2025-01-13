@@ -2,8 +2,8 @@
 
 ### Hello there, I'm Giuseppe.
 #### I'm a researcher in AI and Computer Graphics.
+#### I'm currently a Research Scientist at Adobe Research, Lyon, focusing on generative models and materials.
 #### I received my Ph.D. in 2023 at the University of Catania, under the supervision of Prof. Concetto Spampinato.
-### I'm also the proud co-founder of [Weird Frames](https://www.weirdframes.com).
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuvecchio/)
 [![Scholar](https://img.shields.io/badge/-Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=TF1JBZYAAAAJ&hl)
