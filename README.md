@@ -1,56 +1,97 @@
-[![Header](https://raw.githubusercontent.com/giuvecchio/giuvecchio/main/banner.jpg "Header")](https://www.gvecchio.com/)
+<h1 align="center">👋 Hello there, I'm Giuseppe</h1>
 
-### Hello there, I'm Giuseppe.
-#### I'm a researcher in AI and Computer Graphics.
-#### I'm currently a Research Scientist at Adobe Research, Lyon, focusing on generative models and materials.
-#### I received my Ph.D. in 2023 at the University of Catania, under the supervision of Prof. Concetto Spampinato.
+<p align="center">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar">
+  <img src="https://img.shields.io/badge/-gvecchio.com-00599C?style=for-the-badge&logo=globe&logoColor=white" alt="Website">
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuvecchio/)
-[![Scholar](https://img.shields.io/badge/-Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=TF1JBZYAAAAJ&hl)
-[![Website](https://img.shields.io/badge/-gvecchio.com-00599C?style=flat)](https://gvecchio.com/)
+### 👨‍💻 About Me
+- 🎨 Research Scientist @ **Adobe Research**, focusing on Generative AI for graphics
+- 🔮 Bridging the gap between simulation and reality, one pixel at a time
+- 🎓 Ph.D. (2023) from University of Catania under Prof. Concetto Spampinato
+- 📸 When not training models, you'll find me capturing moments around the world
 
-<!--
-**giuvecchio/giuvecchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![](https://img.shields.io/badge/-Cuda-76B900?style=flat&logo=nvidia&logoColor=white)
-
-![](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-![](https://img.shields.io/badge/-Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-
-![](https://img.shields.io/badge/-Unreal_Engine-313131?logo=unreal-engine&logoColor=white&style=flat)
-
+<!--![Giuseppe's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuvecchio&show_icons=true&theme=dark)-->
 
 <!--
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/giuvecchio/giuvecchio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuvecchio&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/giuvecchio/giuvecchio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giuvecchio&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Giuseppe's GitHub Stats" />
-</a>
-
-## Medium articles
-![Giuseppe's blog](https://github-read-medium.vercel.app/latest?username=giuseppevecchio&limit=6&theme=graywhite)
-![WeirdFrames's blog](https://github-read-medium.vercel.app/latest?username=weirdframes&limit=6&theme=graywhite)
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/-Cuda-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
+  <img src="https://img.shields.io/badge/-Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine">
+</p>
 -->
+
+<!--
+### 🚀 Featured Projects
+<p align="center">
+  <a href="[project-link]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giuvecchio&repo=matfuse-sd&theme=dark" />
+  </a>
+  <a href="[project-link]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=perceivelab&repo=surfacenet&theme=dark" />
+  </a>
+  <a href="[project-link]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giuvecchio&repo=PyPBR&theme=dark" />
+  </a>
+</p>
+-->
+
+<!--
+### 🎯 Highlighted Research
+- **StableMaterials: Enhancing Diversity in Material Generation via Semi-Supervised Learning**
+  - 🔍 [Paper](https://arxiv.org/abs/2406.09293) | [Project Page](https://gvecchio.com/stablematerials/)
+    
+- **Controlmat: a controlled generative approach to material capture**
+  - 🏆 Published at ACM Transactions on Graphics
+  - 🔍 [Paper](https://arxiv.org/abs/2309.01700) | [Project Page](https://gvecchio.com/controlmat/)
+
+- **MatFuse: Controllable Material Generation with Diffusion Models**
+  - 🏆 Published at CVPR 2024
+  - 🔍 [Paper](https://arxiv.org/abs/2308.11408) | [Project Page](https://gvecchio.com/matfuse/) | [Code](https://github.com/giuvecchio/matfuse-sd)
+-->
+
+### 📚 Selected Publications
+
+<div align="center">
+ <table>
+   <tr>
+     <td>
+       <b>StableMaterials: Enhancing Diversity in Material Generation via Semi-Supervised Learning</b><br>
+       Preprint, 2024 <br><br>
+       <a href="https://arxiv.org/abs/2406.09293"><img src="https://img.shields.io/badge/-Paper-lightgrey?style=for-the-badge"></a>
+       <a href="https://gvecchio.com/stablematerials/"><img src="https://img.shields.io/badge/-Project-blue?style=for-the-badge"></a>
+       <a href="https://huggingface.co/gvecchio/stablematerials"><img src="https://img.shields.io/badge/-🤗_Model-yellow?style=for-the-badge"></a>
+     </td>
+   </tr>
+   <tr>
+     <td>
+       <b>Controlmat: A Controlled Generative Approach to Material Capture</b><br>
+       ACM Transactions on Graphics, 2023 <br><br>
+       <a href="https://arxiv.org/abs/2309.01700"><img src="https://img.shields.io/badge/-Paper-lightgrey?style=for-the-badge"></a>
+       <a href="https://gvecchio.com/controlmat/"><img src="https://img.shields.io/badge/-Project-blue?style=for-the-badge"></a>
+     </td>
+   </tr>
+   <tr>
+     <td>
+       <b>MatFuse: Controllable Material Generation with Diffusion Models</b><br>
+       CVPR 2024 <br><br>
+       <a href="https://arxiv.org/abs/2308.11408"><img src="https://img.shields.io/badge/-Paper-lightgrey?style=for-the-badge"></a>
+       <a href="https://gvecchio.com/matfuse/"><img src="https://img.shields.io/badge/-Project-blue?style=for-the-badge"></a>
+       <a href="https://github.com/giuvecchio/matfuse-sd"><img src="https://img.shields.io/badge/-Code-gray?style=for-the-badge&logo=github"></a>
+     </td>
+   </tr>
+   <tr>
+     <td>
+       <b>MatSynth: A Modern PBR Materials Dataset</b><br>
+       CVPR 2024 <br><br>
+       <a href="https://arxiv.org/abs/2401.06056"><img src="https://img.shields.io/badge/-Paper-lightgrey?style=for-the-badge"></a>
+       <a href="https://gvecchio.com/matsynth/"><img src="https://img.shields.io/badge/-Project-blue?style=for-the-badge"></a>
+       <a href="https://huggingface.co/datasets/gvecchio/MatSynth"><img src="https://img.shields.io/badge/-🤗_Dataset-yellow?style=for-the-badge"></a>
+     </td>
+   </tr>
+ </table>
+</div>
