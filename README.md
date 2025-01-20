@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 - 🎨 Research Scientist @ **Adobe Research**, focusing on Generative AI for graphics
 - 🔮 Bridging the gap between simulation and reality, one pixel at a time
-- 🎓 Ph.D. (2023) from University of Catania under Prof. Concetto Spampinato
+- 🎓 Ph.D. (2023) from University of Catania under [Prof. Concetto Spampinato](https://www.dieei.unict.it/docenti/concetto.spampinato?eng)
 - 📸 When not training models, you'll find me capturing moments around the world
 
 <!--![Giuseppe's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuvecchio&show_icons=true&theme=dark)-->
@@ -59,37 +59,33 @@
 <div align="center">
  <table>
    <tr>
-     <td>
+     <td width="50%" valign="top">
        <b>StableMaterials: Enhancing Diversity in Material Generation via Semi-Supervised Learning</b><br>
        Preprint, 2024 <br><br>
-       <a href="https://arxiv.org/abs/2406.09293"><img src="https://img.shields.io/badge/-Paper-lightgrey?style=for-the-badge"></a>
-       <a href="https://gvecchio.com/stablematerials/"><img src="https://img.shields.io/badge/-Project-blue?style=for-the-badge"></a>
+       <a href="https://arxiv.org/abs/2406.09293"><img src="https://img.shields.io/badge/-📄_Paper-lightgrey?style=for-the-badge"></a>
+       <a href="https://gvecchio.com/stablematerials/"><img src="https://img.shields.io/badge/-🔗_Project-blue?style=for-the-badge"></a>
        <a href="https://huggingface.co/gvecchio/stablematerials"><img src="https://img.shields.io/badge/-🤗_Model-yellow?style=for-the-badge"></a>
      </td>
-   </tr>
-   <tr>
-     <td>
+     <td width="50%" valign="top">
        <b>Controlmat: A Controlled Generative Approach to Material Capture</b><br>
-       ACM Transactions on Graphics, 2023 <br><br>
-       <a href="https://arxiv.org/abs/2309.01700"><img src="https://img.shields.io/badge/-Paper-lightgrey?style=for-the-badge"></a>
-       <a href="https://gvecchio.com/controlmat/"><img src="https://img.shields.io/badge/-Project-blue?style=for-the-badge"></a>
+       ACM Transactions on Graphics, 2024 <br><br>
+       <a href="https://arxiv.org/abs/2309.01700"><img src="https://img.shields.io/badge/-📄_Paper-lightgrey?style=for-the-badge"></a>
+       <a href="https://gvecchio.com/controlmat/"><img src="https://img.shields.io/badge/-🔗_Project-blue?style=for-the-badge"></a>
      </td>
    </tr>
    <tr>
-     <td>
+     <td width="50%" valign="top">
        <b>MatFuse: Controllable Material Generation with Diffusion Models</b><br>
        CVPR 2024 <br><br>
-       <a href="https://arxiv.org/abs/2308.11408"><img src="https://img.shields.io/badge/-Paper-lightgrey?style=for-the-badge"></a>
-       <a href="https://gvecchio.com/matfuse/"><img src="https://img.shields.io/badge/-Project-blue?style=for-the-badge"></a>
+       <a href="https://arxiv.org/abs/2308.11408"><img src="https://img.shields.io/badge/-📄_Paper-lightgrey?style=for-the-badge"></a>
+       <a href="https://gvecchio.com/matfuse/"><img src="https://img.shields.io/badge/-🔗_Project-blue?style=for-the-badge"></a>
        <a href="https://github.com/giuvecchio/matfuse-sd"><img src="https://img.shields.io/badge/-Code-gray?style=for-the-badge&logo=github"></a>
      </td>
-   </tr>
-   <tr>
-     <td>
+     <td width="50%" valign="top">
        <b>MatSynth: A Modern PBR Materials Dataset</b><br>
        CVPR 2024 <br><br>
-       <a href="https://arxiv.org/abs/2401.06056"><img src="https://img.shields.io/badge/-Paper-lightgrey?style=for-the-badge"></a>
-       <a href="https://gvecchio.com/matsynth/"><img src="https://img.shields.io/badge/-Project-blue?style=for-the-badge"></a>
+       <a href="https://arxiv.org/abs/2401.06056"><img src="https://img.shields.io/badge/-📄_Paper-lightgrey?style=for-the-badge"></a>
+       <a href="https://gvecchio.com/matsynth/"><img src="https://img.shields.io/badge/-🔗_Project-blue?style=for-the-badge"></a>
        <a href="https://huggingface.co/datasets/gvecchio/MatSynth"><img src="https://img.shields.io/badge/-🤗_Dataset-yellow?style=for-the-badge"></a>
      </td>
    </tr>
