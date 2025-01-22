@@ -1,15 +1,16 @@
 <h1 align="center">👋 Hello there, I'm Giuseppe</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar">
-  <img src="https://img.shields.io/badge/-gvecchio.com-00599C?style=for-the-badge&logo=globe&logoColor=white" alt="Website">
+  <a href="https://huggingface.co/gvecchio"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://scholar.google.com/citations?user=TF1JBZYAAAAJ"><img src="https://img.shields.io/badge/-Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar"></a>
+  <a href="https://gvecchio.com"><img src="https://img.shields.io/badge/-gvecchio.com-00599C?style=for-the-badge&logo=globe&logoColor=white" alt="Website"></a>
+  <a href="https://huggingface.co/gvecchio"><img src="https://img.shields.io/badge/-🤗_Hugging Face-yellow?style=for-the-badge&logo=globe&logoColor=white" alt="🤗 Hugging Face"></a>
 </p>
 
 ### 👨‍💻 About Me
 - 🎨 Research Scientist @ **Adobe Research**, focusing on Generative AI for graphics
 - 🔮 Bridging the gap between simulation and reality, one pixel at a time
-- 🎓 Ph.D. (2023) from University of Catania under [Prof. Concetto Spampinato](https://www.dieei.unict.it/docenti/concetto.spampinato?eng)
+- 🎓 Ph.D. (2023) from University of Catania under Prof. Concetto Spampinato
 - 📸 When not training models, you'll find me capturing moments around the world
 
 <!--![Giuseppe's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuvecchio&show_icons=true&theme=dark)-->
